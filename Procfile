@@ -1,1 +1,1 @@
-web: gunicorn app:app &  anythingelse: python util.py
+web: gunicorn app:app
